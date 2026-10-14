@@ -39,10 +39,10 @@ Implementations of fundamental machine-learning algorithms from scratch, support
 
 **Tech:** Python · NumPy · Matplotlib
 
-### [CIFAR-10 Transfer Learning](https://github.com/Siva20053/cifar10-transfer-learning)
-A ResNet-18 transfer-learning experiment using PyTorch. The repository reports **80.38% test accuracy** on CIFAR-10.
+### [AI Virtual Mouse](https://github.com/Siva20053/AI-Virtual-Mouse)
+A virtual mouse that uses hand gestures to control the cursor, built with computer vision and hand tracking.
 
-**Tech:** Python · PyTorch · ResNet-18
+**Tech:** Python · MediaPipe · OpenCV
 
 ---
 
